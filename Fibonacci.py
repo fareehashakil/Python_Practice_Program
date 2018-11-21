@@ -1,3 +1,7 @@
+# Object:
+#     To print fibonacci series.
+
+# Source Code:
 def fib(n):
     a = 0
     b = 1
